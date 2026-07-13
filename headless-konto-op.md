@@ -1,6 +1,7 @@
 # Resoniteヘッドレスサーバ　設定のまとめ(N=1)
 
-> 記事中のConfig例は筆者の運用実績(N=1)に基づくものです。[公式ドキュメント](https://wiki.resonite.com/Headless_server_software)も必ず参照してください。
+> 記事中のConfig例は筆者の運用実績(N=1)に基づくものです。誤った記述があるかもしれません。
+> [公式ドキュメント](https://wiki.resonite.com/Headless_server_software)も必ず参照してください。
 
 ---
 
